@@ -1,4 +1,4 @@
-# Project: Predicting Energy Consumption in France ⚡️📈
+# Predicting Energy Consumption in France ⚡️📈
 
 [Link to Jupyter Notebook](https://github.com/CatelloTheDataProjectManager/Predicting-Energy-Consumption/blob/main/Projet_serie_temporelle_%20consommation_energetique.ipynb)
 
