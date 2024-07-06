@@ -6,27 +6,19 @@
 
 This project aims to create an accurate statistical model to predict the future energy consumption of France, with a target precision of over 90%. To achieve this goal, we will utilize various techniques in data analysis, time series, and statistical modeling.
 
+###### (Modeling and Multivariate Regression are essential tools for understanding how these pre-trained models work and how they can be effectively used to solve complex natural language processing problems. [Introduction à la Modélisation et à la Régression Multivariée](https://github.com/CatelloTheDataProjectManager/Introduction-Modelisation-Regression-Multivarie/blob/main/README.md))
+
 ## Objectives
 
 - Develop a statistical model with over 90% accuracy to predict the future energy consumption of France.
 - Utilize analysis and time series libraries for data manipulation and modeling.
-
-## Libraries
-
-- **Analysis**: Use of data analysis libraries to explore and understand the data.
-- **Time Series**: Utilization of specialized libraries for the manipulation and analysis of time series data.
-
-## Data Access
-
-- **Data Information**: Access to information regarding the data used for modeling.
-- **Data Queries**: Access and retrieval of necessary data for analysis and modeling.
 
 ## Univariate Analysis of Energy Consumption
 
 - **Data Cleaning**: Identification and treatment of missing, duplicate, and outlier data.
 - **Outlier Detection Methods**: Employment of techniques to detect and handle outliers in the data.
 
-###### I also conduct analysis on a time series derived from the yfinance API, focusing on historical stock prices for Zalando. If you're interested, you can explore my other project titled  : [Zalando Stock Actions Analysis](https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/README.md)
+###### I also conduct analysis on a time series derived from the yfinance API, focusing on historical stock prices for Zalando. If you're interested, you can explore my other project titled  : [Zalando Stock Actions Analysis](https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/Zalando%20Stock%20Actions%20Analysis.ipynb)
 
 ## Normality and Stationarity Testing
 
