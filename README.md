@@ -26,7 +26,7 @@ This project aims to create an accurate statistical model to predict the future 
 - **Data Cleaning**: Identification and treatment of missing, duplicate, and outlier data.
 - **Outlier Detection Methods**: Employment of techniques to detect and handle outliers in the data.
 
-###### I also conduct analysis on a time series derived from the yfinance API, focusing on historical stock prices for Zalando. If you're interested, you can explore my other project titled  : [Zalando Stock Actions Analysis](https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/Zalando%20Stock%20Actions%20Analysis.ipynb)
+###### I also conduct analysis on a time series derived from the yfinance API, focusing on historical stock prices for Zalando. If you're interested, you can explore my other project titled  : [Zalando Stock Actions Analysis](https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/README.md)
 
 ## Normality and Stationarity Testing
 
@@ -44,7 +44,7 @@ This project aims to create an accurate statistical model to predict the future 
 - **Smoothing Model**: Use of smoothing models to reduce noise and identify trends in data.
 - **ARIMA Model**: Employment of the ARIMA (AutoRegressive Integrated Moving Average) model for time series modeling and prediction.
 
-###### (If you want to learn more about I build and train a NeuralProphet model to forecast future values of a time series, check out the my other project on : [Time Serie Model with NeuralProphet](https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/Time%20Serie%20Model%20with%20NeuralProphet%20.ipynb).)
+###### (If you want to learn more about I build and train a NeuralProphet model to forecast future values of a time series, check out the my other project on : [Time Serie Model with NeuralProphet](https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/README.md).)
 
 ## Conclusion
 
